@@ -1,1 +1,1 @@
-systeminfo > d:\demo1\demo2\info.txt 
+systeminfo > c:\demo1\demo2\info.txt 
